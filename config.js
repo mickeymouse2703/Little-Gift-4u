@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'Hallo cậu!',
     introDesc: `từ lần đầu nhìn thấy cậu
     Tớ đã bị ấn tượng nhiều lắm, tiếc là
-    Chỉ nhìn được cậu qua fb và học online thui.
-    Không sao, vì nhờ đó tớ đã làm ra món quà này.`,
+    Chỉ nhìn được cậu qua fb với học online thui.
+    Không sao, vì nhờ đó tớ đã làm ra món quà nhỏ này nè.`,
     btnIntro: 'Let go',
     title: 'Nếu lỡ mai đây vô tình thấy được nhau😊😊',
     desc: 'Hãy để cho tớ nói với cậu lời chào😆😆',
