@@ -9,10 +9,10 @@ const CONFIG = {
     desc: 'Hãy để cho tớ nói với cậu lời chào😆😆',
     btnYes: 'Awwww :>>>',
     btnNo: 'Không,mình không có hứng🙃🙃',
-    question:'Nếu trái tim ta chung nỗi nhớ đong đầy...',
+    question:'Nếu trái tim ta chung nỗi nhớ đong đầy...?🤔🤔',
     btnReply: 'Gửi cho tớ :>>',
     reply: 'Hẹn gặp lại cậu ngày tháng của sau này :>>>',
-    mess: 'Tuỵt🥰.món quà nhỏ này là để...',
+    mess: 'Tuỵt,cảm ơn cậu🥰.món quà nhỏ này là để...',
     messDesc: 'Thay tớ làm quen với cậu đó, có được khum:>>',
     btnAccept: 'Okiii lunn :>>>',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
