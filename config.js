@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'Hallo cậu!',
-    introDesc: `từ lần đầu nhìn thấy cậu
-    Tớ đã bị ấn tượng nhiều lắm, tiếc là
-    Chỉ nhìn được cậu qua fb với học online thui.
-    Không sao, vì nhờ đó tớ đã làm ra món quà nhỏ này nè.`,
+    introTitle: 'đệ tử iu !',
+    introDesc: `có cái này hay lắm nè
+    đắc biệt lắm mới cho coi đó nha
+    riêng đệ tử thuii đó 😉😉.`,
     btnIntro: 'Let go',
-    title: 'Nếu lỡ mai đây vô tình thấy được nhau😊😊',
-    desc: 'Hãy để cho tớ nói với cậu lời chào😆😆',
-    btnYes: 'Awwww :>>>',
-    btnNo: 'Không,mình không có hứng🙃🙃',
-    question:'Nếu trái tim ta chung nỗi nhớ đong đầy...?🤔🤔',
-    btnReply: 'Gửi cho tớ :>>',
-    reply: 'Hẹn gặp lại cậu ngày tháng của sau này :>>>',
-    mess: 'Tuỵt,cảm ơn cậu🥰.món quà nhỏ này là để...',
-    messDesc: 'Thay tớ làm quen với cậu đó, có được khum:>>',
-    btnAccept: 'Okiii lunn :>>>',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Phải chăng t đã yêu...nhưng hông phải từ cái nhìn đầu tiên😄😄',
+    desc: 'Phải chăng t đã say ngay từ lúc thấy nụ cười của m đó',
+    btnYes: 'Awwww,xin củm ơn:>>>',
+    btnNo: 'VL, xàm quá ba 🙃🙃',
+    question:'Mong một ngày,m sẽ nhận ra sự cố gắng của t nha <3',
+    btnReply: 'Send message...',
+    reply: ' Chắc chắn rùi, t cũng đang chờ coi m cố gắng như thế nào đók :>>>',
+    mess: ' cảm ơn nha🥰 M như ngày tháng của hôm nay vậy🥰',
+    messDesc: 'Lúc nào cũng 10/10 hết❤️:>>',
+    btnAccept: 'Aww,cảm ơn nha :>',
+    messLink: 'https://www.messenger.com/t/100068628549994' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
